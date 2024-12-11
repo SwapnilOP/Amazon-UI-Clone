@@ -20,5 +20,5 @@ You can view the live project here:
 - **HTML**: To structure the content of the webpage.
 - **CSS**: To style the webpage and replicate the look of Amazon.
 
-*Note*: The website is not fully responsive at this time. Future improvements will include making it mobile-friendly using media queries and improving the layout for different screen sizes.
+*Note*: The page is not fully responsive at this time. Future improvements will include making it mobile-friendly using media queries and improving the layout for different screen sizes.
 
